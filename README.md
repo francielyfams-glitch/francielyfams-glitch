@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=E879F9&center=true&vCenter=true&width=640&height=70&lines=Oi%2C+eu+sou+a+Fran.;Programa%C3%A7%C3%A3o+%C2%B7+IA+%C2%B7+Cybersecurity;build+%26+break+%F0%9F%A6%8A" alt="Fran — Programação · IA · Cybersecurity" />
 
 <p>
-  <a href="https://francodes.dev"><img src="https://img.shields.io/badge/francodes.dev-E879F9?style=for-the-badge&logo=firefoxbrowser&logoColor=020617" alt="francodes.dev"></a>
   <a href="https://useverite.com.br"><img src="https://img.shields.io/badge/useverite.com.br-10B981?style=for-the-badge&logo=rocket&logoColor=020617" alt="useverite.com.br"></a>
   <img src="https://img.shields.io/badge/Codraise-020617?style=for-the-badge&logo=discord&logoColor=E879F9" alt="Codraise">
 </p>
