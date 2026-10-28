@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://francodes.dev"><img src="https://img.shields.io/badge/francodes.dev-E879F9?style=for-the-badge&logo=firefoxbrowser&logoColor=020617" alt="francodes.dev"></a>
-  <a href="https://usevenite.com.br"><img src="https://img.shields.io/badge/usevenite.com.br-10B981?style=for-the-badge&logo=rocket&logoColor=020617" alt="usevenite.com.br"></a>
+  <a href="https://useverite.com.br"><img src="https://img.shields.io/badge/useverite.com.br-10B981?style=for-the-badge&logo=rocket&logoColor=020617" alt="useverite.com.br"></a>
   <img src="https://img.shields.io/badge/Codraise-020617?style=for-the-badge&logo=discord&logoColor=E879F9" alt="Codraise">
 </p>
 
@@ -55,7 +55,9 @@ visitante@francodes.dev:~$ _
 | | |
 |---|---|
 | 🦊 **[francodes.dev](https://francodes.dev)** | comunidade Codraise: CTF, Lab de segurança, write-ups, Gazeta e bots 24/7. |
-| 🚀 **[Venite](https://usevenite.com.br)** | `usevenite.com.br` |
+| 🚀 **[Vérité](https://useverite.com.br)** | `useverite.com.br` |
+| 🎹 **[AirSong](https://francodes.dev/airsong/)** | piano no ar com a câmera, dedos numerados de 1 a 5 nas duas mãos. |
+| 🎨 **[AirDraw](https://francodes.dev/airdraw/)** | desenhe no ar só com a mão e a câmera, 48 cores. |
 
 ---
 
