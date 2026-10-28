@@ -36,7 +36,6 @@ visitante@francodes.dev:~$ _
 - 🛡️ **Defensiva** — hardening, análise de logs, resposta a incidentes, cabeçalhos de segurança.
 - ⚔️ **Ofensiva** — recon, OSINT, web pentest, CTF, automação de ferramentas (sempre com autorização).
 - 🤖 **Automação** — três IAs da casa: **Robin** 🦊, **Atlas** 🦉 e **Grokinho** — moderam, ensinam e publicam sozinhas.
-- 🌐 **francodes.dev** — CTF, Lab de ferramentas, write-ups, banco de talentos e a Gazeta da comunidade.
 
 ---
 
@@ -55,7 +54,7 @@ visitante@francodes.dev:~$ _
 | | |
 |---|---|
 | 🦊 **[francodes.dev](https://francodes.dev)** | comunidade Codraise: CTF, Lab de segurança, write-ups, Gazeta e bots 24/7. |
-| 🚀 **[Vérité](https://useverite.com.br)** | `useverite.com.br` |
+| 🚀 **[Vérité](https://useverite.com.br)** | meu projeto de produto, com plano família para até 5 pessoas. |
 | 🎹 **[AirSong](https://francodes.dev/airsong/)** | piano no ar com a câmera, dedos numerados de 1 a 5 nas duas mãos. |
 | 🎨 **[AirDraw](https://francodes.dev/airdraw/)** | desenhe no ar só com a mão e a câmera, 48 cores. |
 
@@ -100,7 +99,6 @@ visitante@francodes.dev:~$ _
 
 <a href="https://instagram.com/fran.codes"><img src="https://img.shields.io/badge/Instagram-020617?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"></a>
 <a href="https://discord.gg/WAtGKfEnKp"><img src="https://img.shields.io/badge/Discord-020617?style=for-the-badge&logo=discord&logoColor=E879F9" alt="Discord"></a>
-<a href="https://francodes.dev"><img src="https://img.shields.io/badge/francodes.dev-020617?style=for-the-badge&logo=firefoxbrowser&logoColor=E879F9" alt="site"></a>
 <!-- Telegram público: quando tiver um canal aberto, me manda o @ que eu encaixo aqui -->
 
 <br><br>
